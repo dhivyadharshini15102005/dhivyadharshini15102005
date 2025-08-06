@@ -1,6 +1,7 @@
 # DHIVYADHARSHINI R
 +91-9788588092 | 📧 dhivyadharshini.r2023cce@sece.ac.in  
-[LinkedIn](https://www.linkedin.com/in/your-profile) |[GitHub](https://github.com/yourusername)
+[LinkedIn](www.linkedin.com/in/dhivyadharshini8) 
+[GitHub](https://github.com/dhivyadharshini15102005-)
 
 ---
 
