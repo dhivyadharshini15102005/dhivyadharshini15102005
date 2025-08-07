@@ -18,11 +18,16 @@
 
 ## 🏆 Achievements
 
-- **LeetCode:** Max Rating – `1729` | Solved `216+` Problems  
-- **CodeChef:** Max Rating – `1184` | Solved `254+` Problems  
-- **SkillRack:** Solved `425+` Problems  
-- **HackerRank:** Bronze Badge in Python  
-- 🥇 1st Place – Project Expo @ SECE (2025)  
+- **LeetCode:** Max Rating – `1729` | Solved `216+` Problems
+  
+- **CodeChef:** Max Rating – `1184` | Solved `254+` Problems
+   
+- **SkillRack:** Solved `425+` Problems
+  
+- **HackerRank:** Bronze Badge in Python
+   
+- 🥇 1st Place – Project Expo @ SECE (2025)
+  
 - 🥉 3rd Place – Project Expo @ SECE (2024)
 
 ---
@@ -85,11 +90,15 @@ AI-powered webcam surveillance system for fire, weapons, face mask, and intruder
 
 ## 📜 Certifications
 
-- Time Complexity – CodeChef (2023)  
-- Problem Solving in Python – HackerRank (2024)  
-- Mastering DSA – Udemy (2024)  
-- Web Development – Udemy (2024)  
-- Python (Basic) – HackerRank (2025)
+- Time Complexity           CodeChef (2023)
+   
+- Problem Solving in Python HackerRank (2024)
+   
+- Mastering DSA             Udemy (2024)
+  
+- Web Development           Udemy (2024)
+   
+- Python (Basic)            HackerRank (2025)
 
 ---
 
